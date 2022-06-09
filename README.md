@@ -2,6 +2,7 @@
 Overview of World Trading of Goods
 
 Database used comes form the WITS Bullk Download, ranging from 2009 to 2018.
+Cleaned and processed data is not posted due to exceeding the storage limit restrictions.
 
 What to expect next :
   - Optimization of the functions (Possible Migration to a PostgreSQL server)
